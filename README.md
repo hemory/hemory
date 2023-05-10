@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo, Wassup?! 👋
 
 - 📚 I’m currently working on Learning & Development at [GitHub](https://github.com/)
 - ✍️ I’m currently writing articles and posting super interesting content on my [LinkedIn](https://www.linkedin.com/in/hemory-phifer/)
